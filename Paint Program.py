@@ -130,34 +130,4 @@ class Pen:
             
 m = Main()
 p = Pen(m)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+m.tk.mainloop()
